@@ -16,6 +16,7 @@ int main()
     {
         cout << setw(2) << k << setprecision(8) << setw(15) << a << setprecision(8) << setw(12) << s << endl;
         a -= 1;
+        cout << "Hello word!!!!!!!!!";
     }
 
 }
